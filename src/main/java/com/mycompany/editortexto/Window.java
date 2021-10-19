@@ -23,7 +23,7 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
- *
+ * https://github.com/Fortes-dev/TextEditor.git
  * @author CarlosFortesMedina
  */
 public class Window extends javax.swing.JFrame {
@@ -369,7 +369,7 @@ public class Window extends javax.swing.JFrame {
      * @param evt 
      */
     private void menuItemAboutMeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuItemAboutMeActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Tarea realizada by Carlos Fortes Medina", "Editor de texto", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(rootPane, "Tarea realizada by Carlos Fortes Medina\nhttps://github.com/Fortes-dev/TextEditor.git", "Editor de texto", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_menuItemAboutMeActionPerformed
 
     /**
